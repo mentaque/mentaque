@@ -20,7 +20,7 @@ Pet-project using free API of coincap, and news API coingecko. The project inclu
 
 Pet-project using Django, ajax.
 
-### [Tests with django](https://github.com/mentaque/sitewithtests)
+### [Tests with django](https://github.com/mentaque/site-with-tests)
 
 Small pet-project using Django with tests through admin panel. 
 
