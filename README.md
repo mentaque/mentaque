@@ -10,7 +10,7 @@ Hi there! I'm Stepa and I'm looking for looking for everything new and interesti
 - frontend with React
 - PostgreSQL, SQLite
 
-## Projects
+## Projects/Code examples
 
 ### [Сryptocurrency quotes using free API(with overview)](https://github.com/mentaque/cryptoapp)
 
