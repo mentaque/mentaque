@@ -1,5 +1,5 @@
 ### Hi guys 👋
-
+## Junior python developer
 Hi there! I'm Stepa and I'm looking for everything new and interesting in life. I am currently studying backend web application development.
 
 ## Skills
