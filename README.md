@@ -17,6 +17,10 @@ Hi there! I'm Stepa and I'm looking for everything new and interesting in coding
 
 Pet-project using authentication with sending message to users's email with celery and also focused on optimized queries
 
+### [Function for django templates](https://github.com/mentaque/drawmenu)
+
+Small function for templates implemented through templatetags
+
 ### [Сryptocurrency quotes using free API](https://github.com/mentaque/cryptoapp)
 
 Pet-project using free API. The project includes Django, DRF, pytest
@@ -25,7 +29,7 @@ Pet-project using free API. The project includes Django, DRF, pytest
 
 Pet-project using Django, ajax.
 
-### [Tests with django](https://github.com/mentaque/site-with-tests)
+### [Tests on django](https://github.com/mentaque/site-with-tests)
 
 Small pet-project using Django with tests through admin panel. 
 
