@@ -1,6 +1,6 @@
 ### Hi guys 👋
 ## Junior python developer
-Hi there! I'm Stepa and I'm looking for everything new and interesting in life. I am currently studying backend web application development.
+Hi there! I'm Stepa and I'm looking for everything new and interesting in coding. I am currently studying backend web application development.
 
 ## Skills
 
@@ -19,7 +19,7 @@ Pet-project using authentication with sending message to users's email with cele
 
 ### [Сryptocurrency quotes using free API](https://github.com/mentaque/cryptoapp)
 
-Pet-project using free API of coincap, and news API coingecko. The project includes Django, DRF, pytest
+Pet-project using free API. The project includes Django, DRF, pytest
 
 ### [Library on django](https://github.com/mentaque/book-library)
 
