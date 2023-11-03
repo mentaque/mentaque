@@ -13,6 +13,10 @@ Hi there! I'm Stepa and I'm looking for everything new and interesting in coding
 
 ## Projects/Code examples
 
+### [Quiz project with FastAPI](https://github.com/mentaque/QFastAPI-proj)
+
+Pet-project using free APIs to get questions and to translate them into russian with googletrans
+
 ### [Shoes shop with auth](https://github.com/mentaque/something)
 
 Pet-project using authentication with sending message to users's email with celery and also focused on optimized queries
